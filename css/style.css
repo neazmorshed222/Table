@@ -1,0 +1,57 @@
+
+.box{
+	width: 200px;
+	height: 200px;
+}
+
+.red{
+	background-color: red;
+	border: 10px solid yellow;
+}
+
+.green{
+	background-color: green;
+}
+
+
+.blue{
+	background-color: blue;
+	border: 20px dotted;
+}
+
+.yellow{
+	background-color: yellow;
+	padding: 20px;
+}
+
+.aqua{
+	background-color: aqua;
+
+}
+
+.brown{
+	background-color: brown;
+	margin-left: 200px;
+}
+
+h1{
+	display: inline;
+
+}
+
+h2{
+	display: inline-block;
+
+}
+
+h3{
+	color: red;
+}
+
+.span{
+	color: blue;
+}
+
+h4 span{
+	color: black;
+}
